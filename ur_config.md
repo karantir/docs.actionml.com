@@ -1,7 +1,7 @@
 # Universal Recommender Tuning
 The default settings of the UR are good for many purposes but getting optimum results may require tuning and at very least many users will wish to know the meaning of the various tuning params.
 
-## UR Parameters
+## UR Parameters {{> urversion}}
 
 These instructions are for the latest Universal Recommender {{> urversion}}, which requires you to build Mahout and have Apache PredictionIO installed (not the ActionML branch). See installation instructions for [PIO](/docs/pio_quickstart) and the [UR](/docs/ur_quickstart).
 
